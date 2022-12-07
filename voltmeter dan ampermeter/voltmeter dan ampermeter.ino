@@ -1,8 +1,8 @@
 int analogInput = A0;
 float vout =0.0;
 float vin =0.0;
-float R1 =3900;//nilai resistansi R1
-float R2 =560;//nilai resistansi R2
+float R1 =4100;//nilai resistansi R1
+float R2 =550;//nilai resistansi R2
 int value = 0;
 void setup() {
   // put your setup code here, to run once:
